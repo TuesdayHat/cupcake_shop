@@ -1,0 +1,14 @@
+body {
+  background-color: lightgreen;
+}
+
+.flashy{
+  color:red;
+  font-style: italic;
+}
+
+.best{
+  border-style: ridge;
+  border-width: medium;
+  background-color: darkgreen;
+}
