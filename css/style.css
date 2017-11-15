@@ -1,5 +1,6 @@
 body {
   background-color: lightgreen;
+  text-align: center;
 }
 
 .flashy{
@@ -8,6 +9,7 @@ body {
 }
 
 .best{
+  color: gold;
   border-style: ridge;
   border-width: medium;
   background-color: darkgreen;
